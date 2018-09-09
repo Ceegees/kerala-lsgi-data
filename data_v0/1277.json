@@ -1,0 +1,308 @@
+{
+    "timeStamp": 1535686479872,
+    "date": "2018-08-31",
+    "name": "Payyoli  Municipality, Kozhikode District",
+    "district": "Kozhikode",
+    "area": null,
+    "localbody_code": "M110300",
+    "no_of_wards": 36,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairperson": "KULSUP",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "KOTTAKKAL",
+            "person": {
+                "id": "2015127700101",
+                "name": "P ASSAINAR MASTER"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "KOTTAKKAL EAST",
+            "person": {
+                "id": "2015127700201",
+                "name": "USHA VALAPPIL"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "MOORAD CENTRAL",
+            "person": {
+                "id": "2015127700301",
+                "name": "K K VALSALA"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "MOORAD SOUTH",
+            "person": {
+                "id": "2015127700401",
+                "name": "K M RAMAKRISHNAN"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "PERINGAD",
+            "person": {
+                "id": "2015127700501",
+                "name": "USHA P M"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "IRINGAL EAST",
+            "person": {
+                "id": "2015127700601",
+                "name": "ARAVINDAKSHAN T"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "IRINGAL SOUTH",
+            "person": {
+                "id": "2015127700701",
+                "name": "SURESH POKKATT"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "AYANIKKAD NORTH",
+            "person": {
+                "id": "2015127700801",
+                "name": "SOBHANA VELLIYOT"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "AYANIKKAD",
+            "person": {
+                "id": "2015127700901",
+                "name": "MAHIJA P P"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "AYANIKKAD SOUTH",
+            "person": {
+                "id": "2015127701001",
+                "name": "SREEDHARAN KOODAYIL"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "AYANIKKAD EAST",
+            "person": {
+                "id": "2015127701101",
+                "name": "SHEENA RANJITH"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "KUTTIYIL PEEDIKA",
+            "person": {
+                "id": "2015127701201",
+                "name": "SALIHA"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "PAYYOLI NORTH",
+            "person": {
+                "id": "2015127701301",
+                "name": "V M SHAHUL HAMEED"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "NELLERI MANIKKOTH NORTH",
+            "person": {
+                "id": "2015127701401",
+                "name": "ENHILADI AHAMMED"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "KIZHUR",
+            "person": {
+                "id": "2015127701501",
+                "name": "MADHATHIL NANU"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "KOVVAPPURAM",
+            "person": {
+                "id": "2015127701601",
+                "name": "EDAKKUDI PRAMEELA"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "THACHANKUNNU",
+            "person": {
+                "id": "2015127701701",
+                "name": "LIJIDHA M E"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "THACHANKUNNU SOUTH",
+            "person": {
+                "id": "2015127701801",
+                "name": "SHAJI"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "KIZHUR SOUTH",
+            "person": {
+                "id": "2015127701901",
+                "name": "SAJINI"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "NELLERI MANIKKOTH",
+            "person": {
+                "id": "2015127702001",
+                "name": "V T USHA"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "PAYYOLI TOWN",
+            "person": {
+                "id": "2015127702101",
+                "name": "K T LIKHESH"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "BHAJANAMADAM",
+            "person": {
+                "id": "2015127702201",
+                "name": "FIROS"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "BHAJANAMADAM NORTH",
+            "person": {
+                "id": "2015127702301",
+                "name": "VIJAY T P"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "PAYYOLI WEST",
+            "person": {
+                "id": "2015127702401",
+                "name": "SHAREEFA S K P"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "PAYYOLI BEACH",
+            "person": {
+                "id": "2015127702501",
+                "name": "CHANDRAN K V"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "ERIPPARAMBIL",
+            "person": {
+                "id": "2015127702601",
+                "name": "KULSU P"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "GANDHINAGAR",
+            "person": {
+                "id": "2015127702701",
+                "name": "BALAKRISHNAN"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "BISMINAGAR",
+            "person": {
+                "id": "2015127702801",
+                "name": "FATHIMA"
+            }
+        },
+        {
+            "ward_number": "29",
+            "name": "PUTHAN MARACHALIL",
+            "person": {
+                "id": "2015127702901",
+                "name": "SAMEERA M V"
+            }
+        },
+        {
+            "ward_number": "30",
+            "name": "CHORIYANCHALIL",
+            "person": {
+                "id": "2015127703001",
+                "name": "RAHMATHULLA A T"
+            }
+        },
+        {
+            "ward_number": "31",
+            "name": "KURIYADITHARA",
+            "person": {
+                "id": "2015127703101",
+                "name": "ANITHA V V"
+            }
+        },
+        {
+            "ward_number": "32",
+            "name": "ARUVAYAL SOUTH",
+            "person": {
+                "id": "2015127703201",
+                "name": "RAJAN PUTHUVAYIL"
+            }
+        },
+        {
+            "ward_number": "33",
+            "name": "KOLAVI",
+            "person": {
+                "id": "2015127703301",
+                "name": "SABITHA K P"
+            }
+        },
+        {
+            "ward_number": "34",
+            "name": "CHETHILTHARA",
+            "person": {
+                "id": "2015127703401",
+                "name": "SHANAVAS C P"
+            }
+        },
+        {
+            "ward_number": "35",
+            "name": "ARUVAYAL",
+            "person": {
+                "id": "2015127703501",
+                "name": "PADANNAYIL PRABHAKARAN"
+            }
+        },
+        {
+            "ward_number": "36",
+            "name": "KOLAVIPPALAM BEACH",
+            "person": {
+                "id": "2015127703601",
+                "name": "SURESH BABU"
+            }
+        }
+    ]
+}

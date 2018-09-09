@@ -1,0 +1,340 @@
+{
+    "timeStamp": 1535686505548,
+    "date": "2018-08-31",
+    "name": "Panoor  Municipality, Kannur District",
+    "district": "Kannur",
+    "area": null,
+    "localbody_code": "M130700",
+    "no_of_wards": 40,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairperson": "RAMLAKV",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "PANOOR TOWN",
+            "person": {
+                "id": "2015128500101",
+                "name": "SAINABA P P"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "KOOTERI",
+            "person": {
+                "id": "2015128500201",
+                "name": "MANOJAN C"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "POLICE STATION",
+            "person": {
+                "id": "2015128500301",
+                "name": "SHAHIDA V"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "WEST ELANGODE",
+            "person": {
+                "id": "2015128500401",
+                "name": "HARIS V"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "MADAPPURA",
+            "person": {
+                "id": "2015128500501",
+                "name": "MADAPPURA CHANDRAN"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "EAST ELANGODE",
+            "person": {
+                "id": "2015128500601",
+                "name": "BALACHANDRAN K K"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "PALATHATI",
+            "person": {
+                "id": "2015128500701",
+                "name": "PADMANABHAN M K"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "ARAYALTHARA",
+            "person": {
+                "id": "2015128500801",
+                "name": "INDIRA TATHAMPARAMBATH"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "CENTRAL ELANGODE",
+            "person": {
+                "id": "2015128500901",
+                "name": "SAMEEJA K M"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "THIRUVAL",
+            "person": {
+                "id": "2015128501001",
+                "name": "KARTHIKA K"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "KANNAMVELLY",
+            "person": {
+                "id": "2015128501101",
+                "name": "K K VIJAYAN"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "PALILANDIPEEDIKA",
+            "person": {
+                "id": "2015128501201",
+                "name": "PREETHA THULLUVAN PARAMBATH"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "KARAPPOYIL",
+            "person": {
+                "id": "2015128501301",
+                "name": "ACHUTHAN K"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "ELITHODE",
+            "person": {
+                "id": "2015128501401",
+                "name": "BALAN K"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "PULLOOKKARA CENTER",
+            "person": {
+                "id": "2015128501501",
+                "name": "JAYAPRAKASH K"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "PULLOOKKARA",
+            "person": {
+                "id": "2015128501601",
+                "name": "E A NAZAR"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "CHERU PULLOOKKARA",
+            "person": {
+                "id": "2015128501701",
+                "name": "A P REMESH"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "PERINGATHUR",
+            "person": {
+                "id": "2015128501801",
+                "name": "UMAISA T P"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "PULIYANAMBRAM EAST",
+            "person": {
+                "id": "2015128501901",
+                "name": "JAFNAS E"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "KIDANHI NORTH",
+            "person": {
+                "id": "2015128502001",
+                "name": "RAVEENDRAN"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "THAVUMBRAM",
+            "person": {
+                "id": "2015128502101",
+                "name": "UMMUSALMATH K"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "KIDANHI",
+            "person": {
+                "id": "2015128502201",
+                "name": "RAJULA MAHAROOF"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "PUTHUSSERY",
+            "person": {
+                "id": "2015128502301",
+                "name": "HASEENA KIZHAKKE CHALIL"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "MUKKALIKKARA",
+            "person": {
+                "id": "2015128502401",
+                "name": "MANOJ E K"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "PADANNAKKARA",
+            "person": {
+                "id": "2015128502501",
+                "name": "SOUMINI"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "PADANNAKKARA NORTH",
+            "person": {
+                "id": "2015128502601",
+                "name": "BINDHU MONARATH"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "PALLIKKUNI",
+            "person": {
+                "id": "2015128502701",
+                "name": "T M BABURAJAN"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "KARIYAD THERU",
+            "person": {
+                "id": "2015128502801",
+                "name": "P K RAJAN"
+            }
+        },
+        {
+            "ward_number": "29",
+            "name": "PUTHANPARAMBA",
+            "person": {
+                "id": "2015128502901",
+                "name": "KODOOR BALAN"
+            }
+        },
+        {
+            "ward_number": "30",
+            "name": "NOONHIVAYAL",
+            "person": {
+                "id": "2015128503001",
+                "name": "RAMLA K V"
+            }
+        },
+        {
+            "ward_number": "31",
+            "name": "ARAYAKKOOL",
+            "person": {
+                "id": "2015128503101",
+                "name": "NAJATH M"
+            }
+        },
+        {
+            "ward_number": "32",
+            "name": "OLIPPIL",
+            "person": {
+                "id": "2015128503201",
+                "name": "K T K RIYAS"
+            }
+        },
+        {
+            "ward_number": "33",
+            "name": "KANAKAMALA",
+            "person": {
+                "id": "2015128503301",
+                "name": "SUNITHA V M"
+            }
+        },
+        {
+            "ward_number": "34",
+            "name": "ANIYARAM CENTRAL",
+            "person": {
+                "id": "2015128503401",
+                "name": "K K KHADEESA"
+            }
+        },
+        {
+            "ward_number": "35",
+            "name": "ANIYARAM",
+            "person": {
+                "id": "2015128503501",
+                "name": "HAREENDRAN"
+            }
+        },
+        {
+            "ward_number": "36",
+            "name": "PERINGALAM",
+            "person": {
+                "id": "2015128503601",
+                "name": "SUVARNA E K"
+            }
+        },
+        {
+            "ward_number": "37",
+            "name": "POOKKOM THERU",
+            "person": {
+                "id": "2015128503701",
+                "name": "NISAR K"
+            }
+        },
+        {
+            "ward_number": "38",
+            "name": "POOKKOM WEST",
+            "person": {
+                "id": "2015128503801",
+                "name": "NISHITHA CHANDREN"
+            }
+        },
+        {
+            "ward_number": "39",
+            "name": "SOUTH PANOOR",
+            "person": {
+                "id": "2015128503901",
+                "name": "SUHARA TEACHER"
+            }
+        },
+        {
+            "ward_number": "40",
+            "name": "BUS STAND",
+            "person": {
+                "id": "2015128504001",
+                "name": "K K SUDEER KUMAR"
+            }
+        }
+    ]
+}

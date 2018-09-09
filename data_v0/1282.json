@@ -1,0 +1,308 @@
+{
+    "timeStamp": 1535686493572,
+    "date": "2018-08-31",
+    "name": "Mananthavady  Municipality, Wayanad District",
+    "district": "Wayanad",
+    "area": null,
+    "localbody_code": "M120200",
+    "no_of_wards": 36,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairman": "PRAVEEJVR",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "PANCHARAKOLLI",
+            "person": {
+                "id": "2015128200101",
+                "name": "K V JUBAIR"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "PILAKKAVU",
+            "person": {
+                "id": "2015128200201",
+                "name": "MUJEEB KODIYADAN"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "JESSY",
+            "person": {
+                "id": "2015128200301",
+                "name": "P T BIJU"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "KALLIYOTTU",
+            "person": {
+                "id": "2015128200401",
+                "name": "SREEMANDINI SURESH"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "KALLUMOTTAMKUNNU",
+            "person": {
+                "id": "2015128200501",
+                "name": "A UNNIKRISHNAN"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "AMBUKUTHI",
+            "person": {
+                "id": "2015128200601",
+                "name": "SARADHA SAJEEVAN"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "CHOYIMOOLA",
+            "person": {
+                "id": "2015128200701",
+                "name": "SUMITHRA BALAN"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "VINCENTGIRI",
+            "person": {
+                "id": "2015128200801",
+                "name": "SWAPNA BIJU"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "ONDAYANGADY",
+            "person": {
+                "id": "2015128200901",
+                "name": "ELSAMMA THOMAS"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "MUDRAMOOLA",
+            "person": {
+                "id": "2015128201001",
+                "name": "A M SATHIAN"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "CHEROOR",
+            "person": {
+                "id": "2015128201101",
+                "name": "LILLY KURIAN"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "KURUKKANMOOLA",
+            "person": {
+                "id": "2015128201201",
+                "name": "JACOB SEBASTIAN"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "KURUVA",
+            "person": {
+                "id": "2015128201301",
+                "name": "HARI CHALIGADHA"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "KADANKOLLI",
+            "person": {
+                "id": "2015128201401",
+                "name": "MINI VIJAYAN"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "PAYYAMPALLY",
+            "person": {
+                "id": "2015128201501",
+                "name": "VARGHESE GEORGE"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "PUTHIYIDAM",
+            "person": {
+                "id": "2015128201601",
+                "name": "SOBHANA YOGI"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "KOILERY",
+            "person": {
+                "id": "2015128201701",
+                "name": "MANJULA ASHOKAN"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "THANNIKKAL",
+            "person": {
+                "id": "2015128201801",
+                "name": "SMITHA ANILKUMAR"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "VALLIYOORKKAVU",
+            "person": {
+                "id": "2015128201901",
+                "name": "SREELATHA KESAVAN"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "VARADIMOOLA",
+            "person": {
+                "id": "2015128202001",
+                "name": "SHEEJA FRANCIS"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "MYTHRINAGAR",
+            "person": {
+                "id": "2015128202101",
+                "name": "SHYLA JOSE"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "CHETTAPPALAM",
+            "person": {
+                "id": "2015128202201",
+                "name": "KADAVATH MUHAMMAD"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "ARATTUTHARA",
+            "person": {
+                "id": "2015128202301",
+                "name": "GEORGE K J"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "PERUVAKA",
+            "person": {
+                "id": "2015128202401",
+                "name": "STERVIN STANY"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "MANANTHAVADY TOWN",
+            "person": {
+                "id": "2015128202501",
+                "name": "ADV.ABDUL RASHEED P"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "THAZHEYANGADY",
+            "person": {
+                "id": "2015128202601",
+                "name": "SOBHA RAJAN"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "ERUMATHERVU",
+            "person": {
+                "id": "2015128202701",
+                "name": "PRADEEPA SASI"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "GORIMOOLA",
+            "person": {
+                "id": "2015128202801",
+                "name": "ABDULASIF K M"
+            }
+        },
+        {
+            "ward_number": "29",
+            "name": "PARIYARAMKUNNU",
+            "person": {
+                "id": "2015128202901",
+                "name": "P V GEORGE"
+            }
+        },
+        {
+            "ward_number": "30",
+            "name": "OZHAKKODI",
+            "person": {
+                "id": "2015128203001",
+                "name": "ARUNKUMAR B D"
+            }
+        },
+        {
+            "ward_number": "31",
+            "name": "PALAKKULI",
+            "person": {
+                "id": "2015128203101",
+                "name": "PUSHPA RAJAN"
+            }
+        },
+        {
+            "ward_number": "32",
+            "name": "KUZHINILAM",
+            "person": {
+                "id": "2015128203201",
+                "name": "HUSSIEN V"
+            }
+        },
+        {
+            "ward_number": "33",
+            "name": "KANIYARAM",
+            "person": {
+                "id": "2015128203301",
+                "name": "PRAVEEJ V R"
+            }
+        },
+        {
+            "ward_number": "34",
+            "name": "PUTHANPURA",
+            "person": {
+                "id": "2015128203401",
+                "name": "V U JOY"
+            }
+        },
+        {
+            "ward_number": "35",
+            "name": "KUTTIMOOLA",
+            "person": {
+                "id": "2015128203501",
+                "name": "SHYLA USMAN"
+            }
+        },
+        {
+            "ward_number": "36",
+            "name": "CHIRAKKARA",
+            "person": {
+                "id": "2015128203601",
+                "name": "SAKEENA HAMSA"
+            }
+        }
+    ]
+}

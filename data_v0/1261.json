@@ -1,0 +1,284 @@
+{
+    "timeStamp": 1535686434689,
+    "date": "2018-08-31",
+    "name": "Pandalam  Municipality, Pathanamthitta District",
+    "district": "Pathanamthitta",
+    "area": null,
+    "localbody_code": "M030400",
+    "no_of_wards": 33,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairperson": "T.KSATHI",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "THOTTAKONAM WEST",
+            "person": {
+                "id": "2015126100101",
+                "name": "K.R.VIJAYAKUMAR"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "THOTTAKONAM EAST",
+            "person": {
+                "id": "2015126100201",
+                "name": "SUNITHA K"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "MULAMPUZHA",
+            "person": {
+                "id": "2015126100301",
+                "name": "MANJU VISWANATH"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "MULAMPUZHA EAST",
+            "person": {
+                "id": "2015126100401",
+                "name": "G ANIL KUMAR"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "MANGARAM WEST",
+            "person": {
+                "id": "2015126100501",
+                "name": "VIJAYAKUMAR V V"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "MANGARAM EAST",
+            "person": {
+                "id": "2015126100601",
+                "name": "K R RAVI"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "THONNALLOOR EAST",
+            "person": {
+                "id": "2015126100701",
+                "name": "SUDHA M P"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "THONNALLOOR SOUTH",
+            "person": {
+                "id": "2015126100801",
+                "name": "LESITHA NAIR"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "ULAMAYIL",
+            "person": {
+                "id": "2015126100901",
+                "name": "T R KRISHNAVENI"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "KADAKKAD",
+            "person": {
+                "id": "2015126101001",
+                "name": "JANCY BEEGAM"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "KADAKKAD EAST",
+            "person": {
+                "id": "2015126101101",
+                "name": "NAUSHAD RAWTHER"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "KURAMPALA NORTH",
+            "person": {
+                "id": "2015126101201",
+                "name": "SREELEKHA R"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "KURAMPALA SOUTH",
+            "person": {
+                "id": "2015126101301",
+                "name": "K V PRABHA"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "KURAMPALA TOWN",
+            "person": {
+                "id": "2015126101402",
+                "name": "DHANYA MOHAN"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "KURAMPALA WEST",
+            "person": {
+                "id": "2015126101501",
+                "name": "N SARASWTHIAMMA"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "ATHIRAMALA EAST",
+            "person": {
+                "id": "2015126101601",
+                "name": "M G RAMANAN"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "ATHIRAMALA WEST",
+            "person": {
+                "id": "2015126101701",
+                "name": "AJITHA KUMARI P G"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "IDAYADI SOUTH",
+            "person": {
+                "id": "2015126101801",
+                "name": "SREEKUMARI J"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "IDAYADI",
+            "person": {
+                "id": "2015126101901",
+                "name": "A RAMAN"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "THAVALAMKULAM",
+            "person": {
+                "id": "2015126102001",
+                "name": "ZEENA K"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "THAVALAMKULAM SOUTH",
+            "person": {
+                "id": "2015126102101",
+                "name": "R JAYAN"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "CHIRAMUDI",
+            "person": {
+                "id": "2015126102201",
+                "name": "SREELATHA S"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "CHIRAMUDI NORTH",
+            "person": {
+                "id": "2015126102301",
+                "name": "SUMESH KUMAR S"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "POOZHIKKADU",
+            "person": {
+                "id": "2015126102401",
+                "name": "ANIE JOHN"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "MEDICAL MISSION",
+            "person": {
+                "id": "2015126102501",
+                "name": "PANDALAM MAHESH"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "PANDALAM TOWN",
+            "person": {
+                "id": "2015126102601",
+                "name": "K S SIVAKUMAR"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "PANDALAM TOWN WEST",
+            "person": {
+                "id": "2015126102701",
+                "name": "N G SURENDRAN"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "MUTTAR",
+            "person": {
+                "id": "2015126102801",
+                "name": "LAILA SHAHUL"
+            }
+        },
+        {
+            "ward_number": "29",
+            "name": "POOZHIKKADU WEST",
+            "person": {
+                "id": "2015126102901",
+                "name": "NISHA JOHN"
+            }
+        },
+        {
+            "ward_number": "30",
+            "name": "M.S.M",
+            "person": {
+                "id": "2015126103001",
+                "name": "D RAVEEDRAN"
+            }
+        },
+        {
+            "ward_number": "31",
+            "name": "CHERIKKAL EAST",
+            "person": {
+                "id": "2015126103101",
+                "name": "SHAH A"
+            }
+        },
+        {
+            "ward_number": "32",
+            "name": "CHERIKKAL WEST",
+            "person": {
+                "id": "2015126103201",
+                "name": "T.K SATHI"
+            }
+        },
+        {
+            "ward_number": "33",
+            "name": "MUDIYOORKONAM",
+            "person": {
+                "id": "2015126103301",
+                "name": "RADHA RAMACHANDRAN"
+            }
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "timeStamp": 1535686461625,
+    "date": "2018-08-31",
+    "name": "Pattambi  Municipality, Palakkad District",
+    "district": "Palakkad",
+    "area": null,
+    "localbody_code": "M090500",
+    "no_of_wards": 28,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "VALLUR NORTH",
+            "person": {
+                "id": "2015126900101",
+                "name": "BALKEES"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "VALLUR EAST",
+            "person": {
+                "id": "2015126900201",
+                "name": "A.P.KRISHNAVENI"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "SECOND MILE",
+            "person": {
+                "id": "2015126900301",
+                "name": "GIRIJA"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "KALAPPARA",
+            "person": {
+                "id": "2015126900401",
+                "name": "ABDUL HAKKEEM RASI.C"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "KODALUR CENTRE",
+            "person": {
+                "id": "2015126900501",
+                "name": "MUNEERA"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "NEDIYAMKUNNU",
+            "person": {
+                "id": "2015126900601",
+                "name": "K.V.A.JABBAR"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "SANKARAMANGALAM",
+            "person": {
+                "id": "2015126900701",
+                "name": "RAHNABI.K.T"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "THEKKUMURI",
+            "person": {
+                "id": "2015126900801",
+                "name": "K.JAYALEKHA"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "CHORAKKUNNU",
+            "person": {
+                "id": "2015126900901",
+                "name": "LEELA.M.V"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "COLLEGE",
+            "person": {
+                "id": "2015126901001",
+                "name": "K.T.RUKKIYA"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "KIZHAKKE ANGADI",
+            "person": {
+                "id": "2015126901101",
+                "name": "AMINA"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "HIDAYATH NAGAR",
+            "person": {
+                "id": "2015126901201",
+                "name": "KUNHUMUHAMMED RASHEED( K.P.VAPPUTTY)"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "CHERULIPARAMBU",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "KIZHAYUR",
+            "person": {
+                "id": "2015126901401",
+                "name": "GEETHA.P"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "LOVELY",
+            "person": {
+                "id": "2015126901501",
+                "name": "VINEETHA GIREESH"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "KOLORKUNNU",
+            "person": {
+                "id": "2015126901601",
+                "name": "ABDUL SAJAD.C.P"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "MELE PATTAMBI",
+            "person": {
+                "id": "2015126901701",
+                "name": "T.P.SHAJI"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "UMIKKUNNU",
+            "person": {
+                "id": "2015126901801",
+                "name": "A.K.AKBAR"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "NAMBRAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "PATTAMBI TOWN",
+            "person": {
+                "id": "2015126902001",
+                "name": "UMMER PALATHINKAL"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "KAITHALI",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "NETHIRIMANGALAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "CIVIL STATION",
+            "person": {
+                "id": "2015126902301",
+                "name": "C.SANGEETHA"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "PARUVAKKADAVU",
+            "person": {
+                "id": "2015126902401",
+                "name": "K.S.B.A.THAGAL"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "KOZHIKUNNU",
+            "person": {
+                "id": "2015126902501",
+                "name": "SHEEJA"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "VADAKKUMURI",
+            "person": {
+                "id": "2015126902601",
+                "name": "K.C.GIREESH"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "THOTTUNGAL CITY",
+            "person": {
+                "id": "2015126902701",
+                "name": "SUNITHA"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "VALLUR CENTRE",
+            "person": {
+                "id": "2015126902801",
+                "name": "SUBRAHMANIAN.P"
+            }
+        }
+    ]
+}

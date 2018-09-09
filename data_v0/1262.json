@@ -1,0 +1,252 @@
+{
+    "timeStamp": 1535686437132,
+    "date": "2018-08-31",
+    "name": "Haripad  Municipality, Alappuzha District",
+    "district": "Alappuzha",
+    "area": null,
+    "localbody_code": "M040600",
+    "no_of_wards": 29,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairperson": "VIJAYAMMAPUNNURMADOM",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "HOMEO DISPENSARY",
+            "person": {
+                "id": "2015126200101",
+                "name": "SUBI PREJITH"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "THULAMPARAMPU NORTH",
+            "person": {
+                "id": "2015126200201",
+                "name": "VIJAYAMMA PUNNURMADOM"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "KILIKKAKULANGARA",
+            "person": {
+                "id": "2015126200301",
+                "name": "RAJASREE.S"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "THRIPPAKKUDAM",
+            "person": {
+                "id": "2015126200401",
+                "name": "SUJATHA"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "THULAMPARAMPU NADUVATHU",
+            "person": {
+                "id": "2015126200501",
+                "name": "M.B. ANILMITHRA"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "NAGARI",
+            "person": {
+                "id": "2015126200601",
+                "name": "B. BABURAJ"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "AROOR L.P.S",
+            "person": {
+                "id": "2015126200701",
+                "name": "K.K. RAMAKRISHNAN"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "VATHUKULANGARA",
+            "person": {
+                "id": "2015126200801",
+                "name": "K S VINOD"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "P.H.C",
+            "person": {
+                "id": "2015126200901",
+                "name": "NISHA G"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "MANGAMKULANGARA",
+            "person": {
+                "id": "2015126201001",
+                "name": "LEKHA AJITH"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "PILAPPUZHA SOUTH",
+            "person": {
+                "id": "2015126201101",
+                "name": "M. SAJEEVE"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "NEDUNTHARA",
+            "person": {
+                "id": "2015126201201",
+                "name": "KUNJUMOL"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "TRIVENI",
+            "person": {
+                "id": "2015126201301",
+                "name": "C. RAJALEKSHMI"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "ERRICKAL",
+            "person": {
+                "id": "2015126201401",
+                "name": "SATHEESH MUTTOM"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "MANIMANGALAM",
+            "person": {
+                "id": "2015126201501",
+                "name": "SREEVIVEK S"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "HOSPITAL",
+            "person": {
+                "id": "2015126201601",
+                "name": "M K VIJAYAN"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "R K JUNCTION",
+            "person": {
+                "id": "2015126201701",
+                "name": "RAJANI C"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "NANGYARKULANGARA",
+            "person": {
+                "id": "2015126201801",
+                "name": "PROF.S.SUDHA"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "MAMPARA",
+            "person": {
+                "id": "2015126201901",
+                "name": "KATTIL SATHAR"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "VETERINARY HOSPITAL",
+            "person": {
+                "id": "2015126202001",
+                "name": "K.M RAJU"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "THAIKOOTAM LAKSHAM VEEDU",
+            "person": {
+                "id": "2015126202101",
+                "name": "SASIKUMARAN NAIR"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "SURESH MARKET",
+            "person": {
+                "id": "2015126202201",
+                "name": "SMITHA PRADEEP"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "VETTUVENI",
+            "person": {
+                "id": "2015126202301",
+                "name": "CHANDRAVALLY AMMA"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "D.K.N.M L.P SCHOOL",
+            "person": {
+                "id": "2015126202401",
+                "name": "PRESANNA KUMARI. C"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "K.S.R.T.C",
+            "person": {
+                "id": "2015126202501",
+                "name": "VRINDA. S. KUMAR"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "TOWN",
+            "person": {
+                "id": "2015126202601",
+                "name": "SOBHA VISWANATH"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "THULAMPARAMPU SOUTH",
+            "person": {
+                "id": "2015126202701",
+                "name": "SHAMSUDHEEN"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "DANAPPADI",
+            "person": {
+                "id": "2015126202801",
+                "name": "R RATHEESH"
+            }
+        },
+        {
+            "ward_number": "29",
+            "name": "MANNARSALA",
+            "person": {
+                "id": "2015126202901",
+                "name": "S. RADHAMANI AMMA"
+            }
+        }
+    ]
+}

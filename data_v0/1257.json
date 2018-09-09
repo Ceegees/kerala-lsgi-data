@@ -1,0 +1,132 @@
+{
+    "timeStamp": 1535686425000,
+    "date": "2018-08-31",
+    "name": "Parappa\n  Block Panchayat, Kasargode District",
+    "district": "Kasargode",
+    "area": null,
+    "localbody_code": "B140500",
+    "no_of_wards": 14,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "president": "RAJANP",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "KODOM",
+            "person": {
+                "id": "2015125700101",
+                "name": "T BABU"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "KALLAR",
+            "person": {
+                "id": "2015125700201",
+                "name": "SHAHIDA SULAIMAN"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "PANATHADY",
+            "person": {
+                "id": "2015125700301",
+                "name": "LATHA ARAVINDAN"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "PANATHUR",
+            "person": {
+                "id": "2015125700401",
+                "name": "RAJAN P"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "MALOM",
+            "person": {
+                "id": "2015125700501",
+                "name": "MINI MATHEW"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "KOTTAMALA",
+            "person": {
+                "id": "2015125700601",
+                "name": "VENUGOPALAN P"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "CHITTARIKKAL",
+            "person": {
+                "id": "2015125700701",
+                "name": "MARIYAMMA CHACKO"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "KAMBALLOOR",
+            "person": {
+                "id": "2015125700801",
+                "name": "RANJITH P R"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "ELERI",
+            "person": {
+                "id": "2015125700901",
+                "name": "T K CHANDRAMMA TEACHER"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "PARAPPA",
+            "person": {
+                "id": "2015125701001",
+                "name": "RADHA VIJAYAN"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "KINANOOR",
+            "person": {
+                "id": "2015125701101",
+                "name": "V SUDHAKARAN"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "BALAL",
+            "person": {
+                "id": "2015125701201",
+                "name": "P G DEV"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "KALICHANADUKKAM",
+            "person": {
+                "id": "2015125701301",
+                "name": "THANKAMANI P V"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "BELUR",
+            "person": {
+                "id": "2015125701401",
+                "name": "P DAMODHARAN"
+            }
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+{
+    "timeStamp": 1535686446279,
+    "date": "2018-08-31",
+    "name": "Erattupetta  Municipality, Kottayam District",
+    "district": "Kottayam",
+    "area": null,
+    "localbody_code": "M050600",
+    "no_of_wards": 28,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairman": "T.M.RASHEED",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "EDATUMKUNNU",
+            "person": {
+                "id": "2015126400101",
+                "name": "LAILA PAREETH"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "KALLUTHAZHAM",
+            "person": {
+                "id": "2015126400201",
+                "name": "P.H.HASEEB"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "VATTAKKAYAM",
+            "person": {
+                "id": "2015126400301",
+                "name": "P.M.ABDULKHADER"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "NADOOPARAMBU",
+            "person": {
+                "id": "2015126400401",
+                "name": "BEEMA NASAR"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "MURIKKOLIL",
+            "person": {
+                "id": "2015126400501",
+                "name": "N BINU NARAYANAN"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "MATHAKKAL",
+            "person": {
+                "id": "2015126400601",
+                "name": "SHAREENA RAHIM"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "KATTAMALA",
+            "person": {
+                "id": "2015126400701",
+                "name": "KUNJUMOL SIYAD"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "ELAKAYAM",
+            "person": {
+                "id": "2015126400801",
+                "name": "ABDUL BASITH"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "KARACKAD",
+            "person": {
+                "id": "2015126400901",
+                "name": "SHAHUBANATH TEACHER"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "THEVARUPARA",
+            "person": {
+                "id": "2015126401001",
+                "name": "MUHAMMED ISMAYIL"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "KUTTIMARAMPARAMBU",
+            "person": {
+                "id": "2015126401101",
+                "name": "SHAILA ANSARY"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "PATHAZHAPADY",
+            "person": {
+                "id": "2015126401201",
+                "name": "SUBAIR"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "MULAMTHANAM",
+            "person": {
+                "id": "2015126401301",
+                "name": "NISAR KURBANI"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "KOLLAMPARAMBU",
+            "person": {
+                "id": "2015126401401",
+                "name": "V.M SIRAJ"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "SAFANAGAR",
+            "person": {
+                "id": "2015126401501",
+                "name": "RAFI ABDULKHADER"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "KUZHIVELY",
+            "person": {
+                "id": "2015126401601",
+                "name": "ADV.V.P.NAZAR"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "SASTHAMKUNNU",
+            "person": {
+                "id": "2015126401701",
+                "name": "ELMUNNISA MUHAMMEDSHAFI"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "MATTACKADU",
+            "person": {
+                "id": "2015126401801",
+                "name": "T.M.RASHEED"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "VANCHANKAL",
+            "person": {
+                "id": "2015126401901",
+                "name": "BALKEES NAVAS"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "TOWN WARD",
+            "person": {
+                "id": "2015126402001",
+                "name": "ANVAR ALIAR"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "THADAVANAL",
+            "person": {
+                "id": "2015126402101",
+                "name": "HASEENA FAISAL"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "MUTHARAMKUNNU",
+            "person": {
+                "id": "2015126402201",
+                "name": "K.P.MUJEEB"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "ANIPPADY",
+            "person": {
+                "id": "2015126402301",
+                "name": "FATHIMA ANSAR"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "CHIRAPPARA",
+            "person": {
+                "id": "2015126402401",
+                "name": "SULFATH NOWFALKHAN"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "KALLOLIL",
+            "person": {
+                "id": "2015126402501",
+                "name": "SHYLA SALIM"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "KONDOORMALA",
+            "person": {
+                "id": "2015126402601",
+                "name": "RAJEENA NOUFAL"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "BLOCK OFFICE",
+            "person": {
+                "id": "2015126402701",
+                "name": "KABEER. V. K"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "ARUVITHURA",
+            "person": {
+                "id": "2015126402801",
+                "name": "JOSE MATHEW ( UNCLE VALLIKAPPIL)"
+            }
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "timeStamp": 1535686456178,
+    "date": "2018-08-31",
+    "name": "Piravom  Municipality, Ernakulam District",
+    "district": "Ernakulam",
+    "area": null,
+    "localbody_code": "M071300",
+    "no_of_wards": 27,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairman": "SABUK.JACOB",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "KAKKAD WEST",
+            "person": {
+                "id": "2015126700101",
+                "name": "SINI SIMON"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "KAKKAD CENTRAL",
+            "person": {
+                "id": "2015126700201",
+                "name": "THAMPI PUTHUVAKKUNNEL"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "KAKKAD EAST",
+            "person": {
+                "id": "2015126700301",
+                "name": "SASI K.R"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "KAKKAD SOUTH",
+            "person": {
+                "id": "2015126700401",
+                "name": "SHAIBI RAJU"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "KARAKODE",
+            "person": {
+                "id": "2015126700501",
+                "name": "SOJAN GEORGE"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "KOLLICKAL",
+            "person": {
+                "id": "2015126700601",
+                "name": "JINCY RAJU"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "PIRAVOM TOWN",
+            "person": {
+                "id": "2015126700701",
+                "name": "REEJA SHAJU"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "THOTTABHAGAM NORTH",
+            "person": {
+                "id": "2015126700801",
+                "name": "MEBIN BABY"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "PIRAVOM NORTH",
+            "person": {
+                "id": "2015126700901",
+                "name": "SABU K.JACOB"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "PIRAVOM SOUTH",
+            "person": {
+                "id": "2015126701001",
+                "name": "SIJI SUKUMARAN"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "PIRAVOM EAST",
+            "person": {
+                "id": "2015126701101",
+                "name": "SUNITHA VIMAL"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "KOMBANAMALA",
+            "person": {
+                "id": "2015126701201",
+                "name": "NEETHU DIJO"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "PALACHUVADE NORTH",
+            "person": {
+                "id": "2015126701301",
+                "name": "ARUN KALLARACKAL"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "EDAPPALLICHIRA",
+            "person": {
+                "id": "2015126701401",
+                "name": "AYSHA MADHAVAN"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "ILLICKAMUKKADA",
+            "person": {
+                "id": "2015126701501",
+                "name": "SINDHU JAMES"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "NAMAKUZHY",
+            "person": {
+                "id": "2015126701601",
+                "name": "THOMAS T K"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "KALLUMADA",
+            "person": {
+                "id": "2015126701701",
+                "name": "AJESH MANOHAR"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "MULAKKULAM",
+            "person": {
+                "id": "2015126701801",
+                "name": "ANNAMMA DOMY"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "THOTTABHAGAM SOUTH",
+            "person": {
+                "id": "2015126701901",
+                "name": "SHIJI GOPAKUMAR"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "KALAMPOOR ITTIYARMALA",
+            "person": {
+                "id": "2015126702001",
+                "name": "GILS PERIAPPURAM"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "KALAMPOOR SOUTH",
+            "person": {
+                "id": "2015126702101",
+                "name": "ATHIRA RAJAN"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "KALAMPOOR WEST",
+            "person": {
+                "id": "2015126702201",
+                "name": "MUKESH THANKAPPAN"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "PAZHOOR SOUTH",
+            "person": {
+                "id": "2015126702301",
+                "name": "VALSALA VARGHESE"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "PAZHOOR WEST",
+            "person": {
+                "id": "2015126702401",
+                "name": "ALSA ANOOP"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "PAZHOOR EAST",
+            "person": {
+                "id": "2015126702501",
+                "name": "UNNI VALLAYIL"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "PAZHOOR CENTRAL",
+            "person": {
+                "id": "2015126702601",
+                "name": "BIBIN JOSE"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "PAZHOOR NORTH",
+            "person": {
+                "id": "2015126702701",
+                "name": "BENNY V.VARGHESE"
+            }
+        }
+    ]
+}

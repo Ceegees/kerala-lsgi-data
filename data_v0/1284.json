@@ -1,0 +1,260 @@
+{
+    "timeStamp": 1535686500335,
+    "date": "2018-08-31",
+    "name": "Sreekandapuram  Municipality, Kannur District",
+    "district": "Kannur",
+    "area": null,
+    "localbody_code": "M130600",
+    "no_of_wards": 30,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairman": "RAGHAVAN.P.P",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "CHEMPANTHOTTY",
+            "person": {
+                "id": "2015128400101",
+                "name": "PHILOMINA. K.M"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "KORANGODU",
+            "person": {
+                "id": "2015128400201",
+                "name": "VARGHESE.N.V"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "KARAYATHUMCHAL",
+            "person": {
+                "id": "2015128400301",
+                "name": "SUSAN THUNDIYIL"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "KATTAYI",
+            "person": {
+                "id": "2015128400401",
+                "name": "MARY KUZHIKKATTIL"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "AMPAZHATHUMCHAL",
+            "person": {
+                "id": "2015128400501",
+                "name": "LINI MELETTUTHADATHIL"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "KAMBLARI",
+            "person": {
+                "id": "2015128400601",
+                "name": "RAJANI VENU"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "KANAPRAM",
+            "person": {
+                "id": "2015128400701",
+                "name": "RAGHAVAN.P.P"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "PAZHAYANGADI",
+            "person": {
+                "id": "2015128400801",
+                "name": "NISHEETHA RAHMAN"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "PANNYAL",
+            "person": {
+                "id": "2015128400901",
+                "name": "PRINSON ANTONY"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "KAVUMBAYI",
+            "person": {
+                "id": "2015128401001",
+                "name": "M.KORAN"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "PULLIMANKUNNU",
+            "person": {
+                "id": "2015128401101",
+                "name": "JANCY JAMES"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "AYCHERI",
+            "person": {
+                "id": "2015128401201",
+                "name": "GEETHA.E"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "ELLARINHI",
+            "person": {
+                "id": "2015128401301",
+                "name": "K.K.SASIDHARAN"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "KAITHAPRAM",
+            "person": {
+                "id": "2015128401401",
+                "name": "SWAPNA.K.N"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "MADAMPAM",
+            "person": {
+                "id": "2015128401501",
+                "name": "BENOY.K"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "CHERIKODE",
+            "person": {
+                "id": "2015128401601",
+                "name": "SHINTO LUKA"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "NEDUNGOME",
+            "person": {
+                "id": "2015128401701",
+                "name": "SHEEJA.A.C"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "CHUNDAPPARAMBU",
+            "person": {
+                "id": "2015128401801",
+                "name": "LISSY JOSEPH"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "KANJILERI",
+            "person": {
+                "id": "2015128401901",
+                "name": "KARUNAKARAN.K.K"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "BALANKARI",
+            "person": {
+                "id": "2015128402001",
+                "name": "MAHIJAMANI.P"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "VAYAKKARA",
+            "person": {
+                "id": "2015128402101",
+                "name": "SANTHOSH.V.V"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "KANIYARVAYAL",
+            "person": {
+                "id": "2015128402201",
+                "name": "SHYLA JOSEPH"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "KOTTUR",
+            "person": {
+                "id": "2015128402301",
+                "name": "ADV.M.C.RAGHAVAN"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "PANCHAMOOLA",
+            "person": {
+                "id": "2015128402401",
+                "name": "T.O.NARAYANAN"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "AVANAKKOL",
+            "person": {
+                "id": "2015128402501",
+                "name": "C.M.THOMAS"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "SREEKANDAPURAM",
+            "person": {
+                "id": "2015128402601",
+                "name": "MUNEER.A.P"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "CHEPPARAMBA",
+            "person": {
+                "id": "2015128402701",
+                "name": "JOSEPHEENA TEACHER"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "NEDIYENGA",
+            "person": {
+                "id": "2015128402801",
+                "name": "P.V.SHOBHANA"
+            }
+        },
+        {
+            "ward_number": "29",
+            "name": "PERUVANJI",
+            "person": {
+                "id": "2015128402901",
+                "name": "SHIJITH.V"
+            }
+        },
+        {
+            "ward_number": "30",
+            "name": "NEDIYENGA KAVALA",
+            "person": {
+                "id": "2015128403001",
+                "name": "RAJESH.A"
+            }
+        }
+    ]
+}

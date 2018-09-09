@@ -1,0 +1,124 @@
+{
+    "timeStamp": 1535686422892,
+    "date": "2018-08-31",
+    "name": "Karadka\n  Block Panchayat, Kasargode District",
+    "district": "Kasargode",
+    "area": null,
+    "localbody_code": "B140200",
+    "no_of_wards": 13,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "president": "OMANARAMACHANDRAN",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "MOVVAR",
+            "person": {
+                "id": "2015125600101",
+                "name": "SUNDARA"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "KUMBADAJE",
+            "person": {
+                "id": "2015125600201",
+                "name": "SATHYAWATHI"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "BELLUR",
+            "person": {
+                "id": "2015125600301",
+                "name": "SHREEDHARA.M"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "ADHUR",
+            "person": {
+                "id": "2015125600401",
+                "name": "VARIJAKSHAN. K"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "DELAMPADY",
+            "person": {
+                "id": "2015125600501",
+                "name": "C.K. KUMARAN"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "ADOOR",
+            "person": {
+                "id": "2015125600601",
+                "name": "VALSALA"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "BANDADUKKA",
+            "person": {
+                "id": "2015125600701",
+                "name": "LILLY THOMAS"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "KUTTIKOL",
+            "person": {
+                "id": "2015125600801",
+                "name": "K.T. RAGINI"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "BEDAKAM",
+            "person": {
+                "id": "2015125600902",
+                "name": "H. SHANKARAN"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "KUNDAMKUZHY",
+            "person": {
+                "id": "2015125601001",
+                "name": "GOPALAN.P.K"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "PERLADUKKAM",
+            "person": {
+                "id": "2015125601101",
+                "name": "OMANA RAMACHANDRAN"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "MULIYAR",
+            "person": {
+                "id": "2015125601201",
+                "name": "BINDU SREEDHARAN"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "KARADUKKA",
+            "person": {
+                "id": "2015125601301",
+                "name": "USHA.K"
+            }
+        }
+    ]
+}

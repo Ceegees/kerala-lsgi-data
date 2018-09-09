@@ -1,0 +1,220 @@
+{
+    "timeStamp": 1535686450843,
+    "date": "2018-08-31",
+    "name": "Koothattukulam  Municipality, Ernakulam District",
+    "district": "Ernakulam",
+    "area": null,
+    "localbody_code": "M071200",
+    "no_of_wards": 25,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairman": "P.C.JOSE",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "M.P.I",
+            "person": {
+                "id": "2015126600101",
+                "name": "FEBEESH V. GEORGE"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "CHELLACKAPADY",
+            "person": {
+                "id": "2015126600201",
+                "name": "SEENA JOHNSON"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "MANJERIKUNNU",
+            "person": {
+                "id": "2015126600301",
+                "name": "BIJU JOHN"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "VADAKARA",
+            "person": {
+                "id": "2015126600401",
+                "name": "OMANA BABY"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "KUNKUMASSERY",
+            "person": {
+                "id": "2015126600501",
+                "name": "VALSAMMA  BABY"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "PAITAKULAM",
+            "person": {
+                "id": "2015126600601",
+                "name": "JEENAMMA SIBY"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "DEVAMATHA",
+            "person": {
+                "id": "2015126600701",
+                "name": "GRACY GEORGE"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "SUBSTATION",
+            "person": {
+                "id": "2015126600801",
+                "name": "LINU MATHEW"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "AMBALAM",
+            "person": {
+                "id": "2015126600901",
+                "name": "BINDU MANOJ"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "HIGH SCHOOL",
+            "person": {
+                "id": "2015126601001",
+                "name": "PRINCE PAUL JOHN"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "MANGALATHUTHAZHAM",
+            "person": {
+                "id": "2015126601101",
+                "name": "VASUMATHI AMMA"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "MANGALATHUTHAZHAM SOUTH",
+            "person": {
+                "id": "2015126601201",
+                "name": "LEELA KURIAKOSE"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "ARJUNAN MALA",
+            "person": {
+                "id": "2015126601301",
+                "name": "NALINI BALAKRISHNAN"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "BAPPUJI",
+            "person": {
+                "id": "2015126601401",
+                "name": "C. N. PRABHAKUMAR"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "TOWN",
+            "person": {
+                "id": "2015126601501",
+                "name": "M.M ASHOKAN"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "U.P. SCHOOL",
+            "person": {
+                "id": "2015126601601",
+                "name": "P. C. JOSE"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "CHORAKKUZHY",
+            "person": {
+                "id": "2015126601701",
+                "name": "A. S. RAJAN"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "CHAMBAMALA",
+            "person": {
+                "id": "2015126601801",
+                "name": "C. V BABY"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "SREEDHAREEYAM",
+            "person": {
+                "id": "2015126601901",
+                "name": "OMANA MANIYAN"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "THALIKKUNNU",
+            "person": {
+                "id": "2015126602001",
+                "name": "SHEEBA RAJU"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "VENGULAM",
+            "person": {
+                "id": "2015126602101",
+                "name": "SARA T. S."
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "KIZHAKOMBU CENTRE",
+            "person": {
+                "id": "2015126602201",
+                "name": "VIJAYA SIVAN"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "EDAYAR EAST",
+            "person": {
+                "id": "2015126602301",
+                "name": "SUNNY KURIAKOSE"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "PEEDIKAPADY",
+            "person": {
+                "id": "2015126602401",
+                "name": "THOMAS JOHN"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "EDAYAR WEST",
+            "person": {
+                "id": "2015126602501",
+                "name": "ROY ABRAHAM"
+            }
+        }
+    ]
+}

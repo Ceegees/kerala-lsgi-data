@@ -1,0 +1,537 @@
+{
+    "timeStamp": 1535683171452,
+    "date": "2018-08-31",
+    "name": "Cochin  Corporation, Ernakulam District",
+    "district": "Ernakulam",
+    "area": "94.88km",
+    "localbody_code": "C070100",
+    "no_of_wards": 74,
+    "population": 596473,
+    "male": 295351,
+    "female": 301122,
+    "population_density": 5951,
+    "sex_ratio": 992,
+    "literacy_rate": 95.11,
+    "literacy_rate_male": 97.41,
+    "literacy_rate_female": 92.81,
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "FORT KOCHI",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "KALVATHY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "EARAVELY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "KARIPPALAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "MATTANCHERY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "KOCHANGADI",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "CHERALAYI",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "PANAYAPPILLY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "CHAKKAMADOM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "KARUVELIPPADY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "THOPPUMPADY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "THAREBHAGAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "KADEBHAGAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "THAZHUPPU",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "EDAKOCHI NORTH",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "EDAKOCHI SOUTH",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "PERUMBADAPPU",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "KONAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "PALLURUTHY-KACHERIPADY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "NAMBYAPURAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "PULLARDESAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "MUNDAMVELLY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "MANASSERY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "MOOLAMKUZHY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "CHULLICKAL",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "NASRATHU",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "FORTKOCHI VELI",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "AMARAVATHY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "29",
+            "name": "ISLAND NORTH",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "30",
+            "name": "ISLAND SOUTH",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "31",
+            "name": "VADUTHALA WEST",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "32",
+            "name": "VADUTHALA EAST",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "33",
+            "name": "ELAMAKKARA NORTH",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "34",
+            "name": "PUTHUKKALAVATTAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "35",
+            "name": "PONEKKARA",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "36",
+            "name": "KUNNUMPURAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "37",
+            "name": "EDAPPALLY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "38",
+            "name": "DHEVANKULANGARA",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "39",
+            "name": "KARUKAPPILLI",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "40",
+            "name": "MAMANGALAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "41",
+            "name": "PADIVATTAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "42",
+            "name": "VENNALA",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "43",
+            "name": "PALARIVATTAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "44",
+            "name": "KARANAKKODAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "45",
+            "name": "THAMMANAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "46",
+            "name": "CHAKKARAPARAMBU",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "47",
+            "name": "CHALIKKAVATTAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "48",
+            "name": "PONNURUNNI EAST",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "49",
+            "name": "VYTTILA",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "50",
+            "name": "CHAMBAKKARA",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "51",
+            "name": "POONITHURA",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "52",
+            "name": "VYTTILA JANATHA",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "53",
+            "name": "PONNURUNNI",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "54",
+            "name": "ELAMKULAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "55",
+            "name": "GIRINAGAR",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "56",
+            "name": "PANAMPILLI NAGAR",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "57",
+            "name": "KADAVANTHRA",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "58",
+            "name": "KONTHURUTHY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "59",
+            "name": "THEVARA",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "60",
+            "name": "PERUMANUR",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "61",
+            "name": "RAVIPURAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "62",
+            "name": "ERNAKULAM SOUTH",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "63",
+            "name": "GANDHI NAGAR",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "64",
+            "name": "KATHRIKADAVU",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "65",
+            "name": "KALOOR SOUTH",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "66",
+            "name": "ERNAKULAM CENTRAL",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "67",
+            "name": "ERNAKULAM NORTH",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "68",
+            "name": "AYYAPPANKAVU",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "69",
+            "name": "THRIKKANARVATTOM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "70",
+            "name": "KALOOR NORTH",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "71",
+            "name": "ELAMAKKARA SOUTH",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "72",
+            "name": "POTTAKUZHY",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "73",
+            "name": "PACHALAM",
+            "person": {
+                "name": "*****"
+            }
+        },
+        {
+            "ward_number": "74",
+            "name": "THATTAZHAM",
+            "person": {
+                "name": "*****"
+            }
+        }
+    ]
+}

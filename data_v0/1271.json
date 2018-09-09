@@ -1,0 +1,252 @@
+{
+    "timeStamp": 1535686466129,
+    "date": "2018-08-31",
+    "name": "Mannarkad  Municipality, Palakkad District",
+    "district": "Palakkad",
+    "area": null,
+    "localbody_code": "M090700",
+    "no_of_wards": 29,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairperson": "SUBAIDA.M.K",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "KUNTHIPUZHA",
+            "person": {
+                "id": "2015127100101",
+                "name": "K. C. ABDULRAHIMAN"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "KULARMUNDA",
+            "person": {
+                "id": "2015127100201",
+                "name": "V. SIRAJUDHEEN"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "CHOMERI",
+            "person": {
+                "id": "2015127100301",
+                "name": "P.UNNIKRISHNAN"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "KODUVALIKUNDU",
+            "person": {
+                "id": "2015127100401",
+                "name": "SAKEENA P"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "PERINCHOLAM",
+            "person": {
+                "id": "2015127100501",
+                "name": "SALEENA V"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "UBHAYAMARGAM",
+            "person": {
+                "id": "2015127100601",
+                "name": "SUJATHA N K"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "ARAKURSSI",
+            "person": {
+                "id": "2015127100701",
+                "name": "T.R.SEBASTIAN"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "VADAKKEKARA",
+            "person": {
+                "id": "2015127100801",
+                "name": "SARASWATHY . M"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "THENNARI",
+            "person": {
+                "id": "2015127100901",
+                "name": "VANAJA K"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "ARAYAMKODU",
+            "person": {
+                "id": "2015127101001",
+                "name": "VASANTHA .T"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "VADAKKUMANNAM",
+            "person": {
+                "id": "2015127101101",
+                "name": "K.P.SALEEM"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "NADAMALIKA",
+            "person": {
+                "id": "2015127101201",
+                "name": "AMUDHA.V"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "ANDIPADAM",
+            "person": {
+                "id": "2015127101301",
+                "name": "P .PARVATHY"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "NELLIPUZHA",
+            "person": {
+                "id": "2015127101401",
+                "name": "MOHAMMED IBRAHIM M"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "ALTHARA",
+            "person": {
+                "id": "2015127101501",
+                "name": "A.SREENIVASAN"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "THORAPURAM",
+            "person": {
+                "id": "2015127101601",
+                "name": "JAYAKUMAR.P.M"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "MUNDEKKARAD",
+            "person": {
+                "id": "2015127101701",
+                "name": "MUNEERA .C.P"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "NAMBIYAMPADI",
+            "person": {
+                "id": "2015127101801",
+                "name": "NUSARATH.C.H"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "VINAYAKA NAGAR",
+            "person": {
+                "id": "2015127101901",
+                "name": "C.P.PUSHPANAND"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "PARAPPURAM",
+            "person": {
+                "id": "2015127102001",
+                "name": "PUSHPALATHA VIJAYAN"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "NARANGAPATTA",
+            "person": {
+                "id": "2015127102101",
+                "name": "MANSOOR. K"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "NAYADIKUNNU",
+            "person": {
+                "id": "2015127102201",
+                "name": "SHAHINA.K"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "CHANTHAPADI",
+            "person": {
+                "id": "2015127102301",
+                "name": "SUBAIDA.M.K"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "PERIMBADARI",
+            "person": {
+                "id": "2015127102401",
+                "name": "K.SURESH"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "KANHIRAMPADAM",
+            "person": {
+                "id": "2015127102501",
+                "name": "BALAKRISHNAN. K"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "GOVINDAPURAM",
+            "person": {
+                "id": "2015127102601",
+                "name": "MASITHA SATHAR"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "ONNAM MILE",
+            "person": {
+                "id": "2015127102701",
+                "name": "SHAHANA KALLADI"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "KANHIRAM",
+            "person": {
+                "id": "2015127102801",
+                "name": "T.HARILAL"
+            }
+        },
+        {
+            "ward_number": "29",
+            "name": "NAMBIYAMKUNNU",
+            "person": {
+                "id": "2015127102901",
+                "name": "AFSAL.C.K"
+            }
+        }
+    ]
+}

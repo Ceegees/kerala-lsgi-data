@@ -1,0 +1,308 @@
+{
+    "timeStamp": 1535686483018,
+    "date": "2018-08-31",
+    "name": "Koduvally  Municipality, Kozhikode District",
+    "district": "Kozhikode",
+    "area": null,
+    "localbody_code": "M110400",
+    "no_of_wards": 36,
+    "population": null,
+    "male": null,
+    "female": null,
+    "population_density": null,
+    "sex_ratio": null,
+    "literacy_rate": null,
+    "literacy_rate_male": null,
+    "literacy_rate_female": null,
+    "chairperson": "SHAREEFAKANNADIPPOYIL",
+    "wards": [
+        {
+            "ward_number": "1",
+            "name": "PANAKKODE",
+            "person": {
+                "id": "2015127800101",
+                "name": "PREETHA. K .K"
+            }
+        },
+        {
+            "ward_number": "2",
+            "name": "VAVAD WEST",
+            "person": {
+                "id": "2015127800201",
+                "name": "SALEENA"
+            }
+        },
+        {
+            "ward_number": "3",
+            "name": "VAVAD EAST",
+            "person": {
+                "id": "2015127800301",
+                "name": "SUSHINI K. M"
+            }
+        },
+        {
+            "ward_number": "4",
+            "name": "POYILANGADI",
+            "person": {
+                "id": "2015127800401",
+                "name": "BINDU ANILKUMAR"
+            }
+        },
+        {
+            "ward_number": "5",
+            "name": "PORGOTTOOR",
+            "person": {
+                "id": "2015127800501",
+                "name": "JAMEELA"
+            }
+        },
+        {
+            "ward_number": "6",
+            "name": "KALARANTHIRI NORTH",
+            "person": {
+                "id": "2015127800601",
+                "name": "V. C NOORJAHAN"
+            }
+        },
+        {
+            "ward_number": "7",
+            "name": "KALARANTHIRI SOUTH",
+            "person": {
+                "id": "2015127800701",
+                "name": "ANEES. P"
+            }
+        },
+        {
+            "ward_number": "8",
+            "name": "PATTINIKKARA",
+            "person": {
+                "id": "2015127800801",
+                "name": "ABOOBACKER. P"
+            }
+        },
+        {
+            "ward_number": "9",
+            "name": "ARANGOD",
+            "person": {
+                "id": "2015127800901",
+                "name": "K. BABU"
+            }
+        },
+        {
+            "ward_number": "10",
+            "name": "MANIPURAM",
+            "person": {
+                "id": "2015127801001",
+                "name": "SUBAIDA K"
+            }
+        },
+        {
+            "ward_number": "11",
+            "name": "KAREETTIPARAMBA EAST",
+            "person": {
+                "id": "2015127801101",
+                "name": "MUHAMMED SAHI. U. V"
+            }
+        },
+        {
+            "ward_number": "12",
+            "name": "KAREETTIPARAMBA WEST",
+            "person": {
+                "id": "2015127801201",
+                "name": "VIMALA HARIDASAN"
+            }
+        },
+        {
+            "ward_number": "13",
+            "name": "MUKKILANGADI",
+            "person": {
+                "id": "2015127801301",
+                "name": "ABOOBACKER. U. K"
+            }
+        },
+        {
+            "ward_number": "14",
+            "name": "VARIKKUZHITHAZHAM",
+            "person": {
+                "id": "2015127801401",
+                "name": "SHEEBA. P. K"
+            }
+        },
+        {
+            "ward_number": "15",
+            "name": "CHUNDAPPURAM",
+            "person": {
+                "id": "2015127801501",
+                "name": "SAFEENA. K. K"
+            }
+        },
+        {
+            "ward_number": "16",
+            "name": "KARUVANPOYIL WEST",
+            "person": {
+                "id": "2015127801601",
+                "name": "V. MUHAMMED MASTER"
+            }
+        },
+        {
+            "ward_number": "17",
+            "name": "CHULLIYATTU MUKKU",
+            "person": {
+                "id": "2015127801701",
+                "name": "ABDUL KHADER MASTER. P"
+            }
+        },
+        {
+            "ward_number": "18",
+            "name": "KARUVANPOYIL EAST",
+            "person": {
+                "id": "2015127801801",
+                "name": "RAJISHA THEMEEM"
+            }
+        },
+        {
+            "ward_number": "19",
+            "name": "THALAPPERUMANNA",
+            "person": {
+                "id": "2015127801902",
+                "name": "SAREENA RAFEEQUE"
+            }
+        },
+        {
+            "ward_number": "20",
+            "name": "PRAVIL",
+            "person": {
+                "id": "2015127802001",
+                "name": "SHAMSUDHEEN. A. P"
+            }
+        },
+        {
+            "ward_number": "21",
+            "name": "NEDUMALA",
+            "person": {
+                "id": "2015127802101",
+                "name": "NISHIDA. O"
+            }
+        },
+        {
+            "ward_number": "22",
+            "name": "VENNAKKADE",
+            "person": {
+                "id": "2015127802201",
+                "name": "MOIDHEENKUTTY. P. P"
+            }
+        },
+        {
+            "ward_number": "23",
+            "name": "MADRASSA BAZAR",
+            "person": {
+                "id": "2015127802301",
+                "name": "HAJIRA BEEVI"
+            }
+        },
+        {
+            "ward_number": "24",
+            "name": "SOUTH KODUVALLY",
+            "person": {
+                "id": "2015127802401",
+                "name": "ABDUL MAJEED. T"
+            }
+        },
+        {
+            "ward_number": "25",
+            "name": "MODERN BAZAR",
+            "person": {
+                "id": "2015127802501",
+                "name": "SUBAIDA RAHEEM"
+            }
+        },
+        {
+            "ward_number": "26",
+            "name": "NAROOKKIL",
+            "person": {
+                "id": "2015127802601",
+                "name": "O. P RASAK"
+            }
+        },
+        {
+            "ward_number": "27",
+            "name": "PARAMBATHUKAVU",
+            "person": {
+                "id": "2015127802701",
+                "name": "FAISAL KARAT"
+            }
+        },
+        {
+            "ward_number": "28",
+            "name": "KODUVALLY EAST",
+            "person": {
+                "id": "2015127802801",
+                "name": "K. SHIVADASAN"
+            }
+        },
+        {
+            "ward_number": "29",
+            "name": "KODUVALLY NORTH",
+            "person": {
+                "id": "2015127802901",
+                "name": "E. C MUHAMMED"
+            }
+        },
+        {
+            "ward_number": "30",
+            "name": "KODUVALLY WEST",
+            "person": {
+                "id": "2015127803001",
+                "name": "A. P MAJEED MASTER"
+            }
+        },
+        {
+            "ward_number": "31",
+            "name": "PALAKKUTTY",
+            "person": {
+                "id": "2015127803101",
+                "name": "NAZAR KOYA THANGAL. C.P"
+            }
+        },
+        {
+            "ward_number": "32",
+            "name": "ANAPPARA",
+            "person": {
+                "id": "2015127803201",
+                "name": "SHEEBA. O . P"
+            }
+        },
+        {
+            "ward_number": "33",
+            "name": "NELLANKANDI",
+            "person": {
+                "id": "2015127803301",
+                "name": "ABDUL NAZER. T. P"
+            }
+        },
+        {
+            "ward_number": "34",
+            "name": "VAVAD CENTRE",
+            "person": {
+                "id": "2015127803401",
+                "name": "SHAREEFA KANNADIPPOYIL"
+            }
+        },
+        {
+            "ward_number": "35",
+            "name": "ERUMOTH",
+            "person": {
+                "id": "2015127803501",
+                "name": "ABDURAHIMAN. V"
+            }
+        },
+        {
+            "ward_number": "36",
+            "name": "ERANJONA",
+            "person": {
+                "id": "2015127803601",
+                "name": "SHANA NOUSHAJ"
+            }
+        }
+    ]
+}
